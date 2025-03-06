@@ -13,9 +13,11 @@ class MenuActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_menu)
 
-        // Find buttons by their IDs
+        // Find bu
+        // buttons by their IDs
         val btnCalculator = findViewById<Button>(R.id.button3)
         val btnComingSoon = findViewById<Button>(R.id.button4)
+        val btnMyProfile = findViewById<Button>(R.id.button5)
 
         // Navigate to CalculatorActivity
         btnCalculator.setOnClickListener {

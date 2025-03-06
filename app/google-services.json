@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185203670976",
+    "project_id": "firebasics-c1dfc",
+    "storage_bucket": "firebasics-c1dfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185203670976:android:09848c49a505f74932d225",
+        "android_client_info": {
+          "package_name": "com.mason.l1_prog7313"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMFnE06gfOvaOjX3f14PjJRWctSz2j4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
